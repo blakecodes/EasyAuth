@@ -19,7 +19,3 @@ V1.0 -
              <li>GitHub Login</li>
        </ul>
        
-   <u>Credits:</u>
-           <ul>
-            <li>Blake Connally - www.blakecodes.com</li>
-           </ul>
